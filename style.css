@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+*{
+    text-decoration: none;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Audiowide", cursive;
+    background-color: #1f1f1f;
+    text-align: center;
+    color: #B0BFBC;
+    ;
+  }
+
+  .button {
+    background-color: #f44336;
+    border: none;
+    color: #B0BFBC;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
